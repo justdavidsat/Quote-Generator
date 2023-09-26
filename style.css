@@ -1,0 +1,14 @@
+body {
+    background-color:aliceblue;
+}
+.quote-box {
+background-color: aqua;
+width: 50%;
+text-align: center;
+margin: auto;
+}
+.button {
+    margin-left: 50%;
+    text-align: center;
+    
+}
