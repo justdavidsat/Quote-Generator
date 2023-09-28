@@ -12,4 +12,4 @@
 1. **Clone this Repository:** To get started, clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/justdavidsat/Quote-Generator.git
+   git clone https://github.com/your-username/Quote-Generator.git
